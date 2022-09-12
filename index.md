@@ -354,6 +354,45 @@ of code below the Schedule `<h2>` header below with
 
 <h2 id="schedule">Schedule</h2>
 
+<div class="row">
+  <div class="col-md-4">
+    <h3>Monday, September 19</h3>
+    <table class="table table-striped">
+      <tr> <td>Before</td> <td><a href="{{ site.pre_survey }}{{ site.github.project_title }}" target="_blank" rel="noopener noreferrer">Pre-workshop survey</a> </td> </tr>
+      <tr> <td>09:00</td>  <td>Imaging Basics</td> </tr>
+      <tr> <td>10:30</td>  <td>Coffee break</td> </tr>
+      <tr> <td>11:00</td>  <td>Working with skimage</td> </tr>
+      <tr> <td>12:30</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>13:00</td>  <td>END</td> </tr>
+    </table>
+  </div>
+  <div class="col-md-4">
+    <h3>Tuesday, September 20</h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td>  <td>Drawing and Histograms</td> </tr>
+      <tr> <td>10:30</td>  <td>Coffee break</td> </tr>
+      <tr> <td>11:00</td>  <td>Blurring and Thresholding</td> </tr>
+      <tr> <td>12:30</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>13:00</td>  <td>END</td> </tr>
+    </table>
+  </div>
+    <div class="col-md-4">
+    <h3>Wednesday, September 21</h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td>  <td>Connected Components</td> </tr>
+      <tr> <td>10:30</td>  <td>Coffee break</td> </tr>
+      <tr> <td>11:00</td>  <td>Morphometrics</td> </tr>
+      <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
+      <tr> <td>13:00</td>  <td>Capstone Challenge</td> </tr>
+      <tr> <td>14:30</td>  <td>Coffee break</td> </tr>
+      <tr> <td>15:00</td>  <td>Wrap-up and Questions</td> </tr>
+      <tr> <td>16:00</td>  <td>Feedback</td> </tr>
+      <tr> <td>16:30</td>  <td><a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank" rel="noopener noreferrer">Post-workshop Survey</a></td> </tr>
+      <tr> <td>16:40</td>  <td>END</td> </tr>
+    </table>
+  </div>
+</div>
+
 {% comment %}
 Edit/replace the text above if you want to include a schedule table.
 See the contents of the _includes/custom-schedule.html file for an example of
@@ -361,7 +400,7 @@ how one of these schedule tables is constructed.
 {% endcomment %}
 
 {% if site.pilot %}
-The lesson taught in this workshop is being piloted and a precise schedule is yet to be established. The workshop will include regular breaks. Please [contact the workshop organisers](#contact) if you would like more information about the planned schedule.
+The lesson taught in this workshop is being piloted and the schedule above is just a rough estimation of the topics. But we will stick to the schedule regarding start time, end time, and breaks.
 {% endif %}
 
 <hr/>
