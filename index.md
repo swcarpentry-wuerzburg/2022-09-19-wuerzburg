@@ -369,9 +369,9 @@ of code below the Schedule `<h2>` header below with
   <div class="col-md-4">
     <h3>Tuesday, September 20</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td>  <td>Drawing and Histograms</td> </tr>
+      <tr> <td>09:00</td>  <td>Drawing</td> </tr>
       <tr> <td>10:30</td>  <td>Coffee break</td> </tr>
-      <tr> <td>11:00</td>  <td>Blurring and Thresholding</td> </tr>
+      <tr> <td>11:00</td>  <td>Histograms</td> </tr>
       <tr> <td>12:30</td>  <td>Wrap-up</td> </tr>
       <tr> <td>13:00</td>  <td>END</td> </tr>
     </table>
@@ -379,14 +379,14 @@ of code below the Schedule `<h2>` header below with
     <div class="col-md-4">
     <h3>Wednesday, September 21</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td>  <td>Connected Components</td> </tr>
+      <tr> <td>09:00</td>  <td>Blurring and Thresholding</td> </tr>
       <tr> <td>10:30</td>  <td>Coffee break</td> </tr>
-      <tr> <td>11:00</td>  <td>Morphometrics</td> </tr>
+      <tr> <td>11:00</td>  <td>Connected Components</td> </tr>
       <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-      <tr> <td>13:00</td>  <td>Capstone Challenge</td> </tr>
+      <tr> <td>13:00</td>  <td>Morphometrics</td> </tr>
       <tr> <td>14:30</td>  <td>Coffee break</td> </tr>
-      <tr> <td>15:00</td>  <td>Wrap-up and Questions</td> </tr>
-      <tr> <td>16:00</td>  <td>Feedback</td> </tr>
+      <tr> <td>15:00</td>  <td>Capstone Challenge</td> </tr>
+      <tr> <td>16:00</td>  <td>Wrap-up and Feedback</td> </tr>
       <tr> <td>16:30</td>  <td><a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank" rel="noopener noreferrer">Post-workshop Survey</a></td> </tr>
       <tr> <td>16:40</td>  <td>END</td> </tr>
     </table>
